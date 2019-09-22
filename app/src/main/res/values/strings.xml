@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialDesignLAB1</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">An error has occurred</string>
+    <string name="shr_app_name">Material Design</string>
+    <string name="shr_product_title">Product Name</string>
+    <string name="shr_product_description">Description</string>
+</resources>
